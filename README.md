@@ -4,4 +4,4 @@ entry file: server.js
 endpoint: "/api/classify/?name=ibiso"
 
 
-API URL: https://api.genderize.io/
+API URL: [api/](https://api-integration-data-processing-assessment-production.up.railway.app/api/classify/?name=ibiso)
